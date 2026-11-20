@@ -1,0 +1,9 @@
+[project]
+name = "cobie-to-asset-register"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["openpyxl"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
