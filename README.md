@@ -1,5 +1,7 @@
 # cobie-to-asset-register
 
+[![CI](https://github.com/yassine2med/cobie-to-asset-register/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/cobie-to-asset-register/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A COBie handover workbook describes every component in a building, but a maintenance team wants one flat asset register. This tool turns the Component, Type, Space, Floor and Facility sheets into a CSV with the columns of a facility asset register (the same columns as asset-register-template).
 
 ![Screenshot](docs/screenshot.png)
